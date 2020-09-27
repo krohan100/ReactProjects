@@ -78,7 +78,6 @@ class Game extends React.Component {
       </div>
     );
   }
-}
 
 function calculateWinner(squares) {
   const lines = [
